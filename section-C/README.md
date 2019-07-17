@@ -27,9 +27,9 @@
 
 
 ### WebCrawling
-- 4-1. [Folium for Map                              ][bda-41]
-- 4-2. [Seoul Population Stat                       ][bda-42]
-- 4-3. [Seoul Population Stat                       ][bda-43]
+- 4-1. [Web_Crawling1                               ][bda-41]
+- 4-2. [Web_Crawling2                               ][bda-42]
+- 4-3. [Seoul_McDonalds_idx                         ][bda-43]
 
 
 [bda-M1]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ict19apr-hanafin/blob/master/section-C/html/PD_DA_310_Kaggle_Stat_Visualize___Mission.html          "Go bda-M1"
