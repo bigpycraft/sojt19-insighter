@@ -11,6 +11,11 @@
 - [Section-C][link-C] : Web Crawling and Scraping
 - <b>[Section-D][link-D] : Machine Learning / Deep Learning</b>
 
+[link-A]: ../Section-A "Go Section-A"
+[link-B]: ../Section-B "Go Section-B"
+[link-C]: ../Section-C "Go Section-C"
+[link-D]: ../Section-D "Go Section-D"
+
 
 ## Machine Learning for BigData
 >
